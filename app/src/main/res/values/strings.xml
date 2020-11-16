@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PMDM_UD2_Tarea2</string>
+    <string name="nombre">Nombre:</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="dark">DARK</string>
+    <string name="light">LIGHT</string>
+    <string name="mi_primera_aplicaci_n">Mi Primera Aplicación</string>
+    <string name="todo">TODO</string>
+    <string name="textdate">textDate</string>
+    <string name="textname">textname</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="introduce_tu_fecha">Introduce tu fecha</string>
+</resources>
